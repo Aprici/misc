@@ -1,7 +1,4 @@
 #!/usr/bin/env python
-'''
-    by Dechang.Xu
-'''
 import sys
 import socket
 import time
